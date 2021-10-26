@@ -118,3 +118,5 @@ public class CreditCardNumberValidation
 				pause = userFakeInput.nextLine();
 			}
 	}
+
+//practice
